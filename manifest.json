@@ -1,0 +1,78 @@
+{
+  "sheikh": "الشيخ شادي بن إبراهيم القبط",
+  "books": [
+    {
+      "id": "safina",
+      "title": "متن سفينة النجاة",
+      "version": "1",
+      "pdf": "books/safina.pdf",
+      "lessons": [
+        {
+          "id": "01",
+          "title": "مقدمة الشيخ وبيان الكتاب",
+          "file": "audio/safina/01.mp3",
+          "fromPage": 3,
+          "toPage": 5
+        },
+        {
+          "id": "02",
+          "title": "باب الطهارة — تعريفها وأقسامها",
+          "file": "audio/safina/02.mp3",
+          "fromPage": 6,
+          "toPage": 9
+        },
+        {
+          "id": "03",
+          "title": "باب الصلاة — شروطها وأركانها",
+          "file": "audio/safina/03.mp3",
+          "fromPage": 10,
+          "toPage": 14
+        }
+      ]
+    },
+    {
+      "id": "mukhtasar",
+      "title": "المختصر اللطيف",
+      "version": "1",
+      "pdf": "books/mukhtasar.pdf",
+      "lessons": [
+        {
+          "id": "01",
+          "title": "المقدمة والمنهج الفقهي",
+          "file": "audio/mukhtasar/01.mp3",
+          "fromPage": 1,
+          "toPage": 4
+        },
+        {
+          "id": "02",
+          "title": "أحكام الطهارة",
+          "file": "audio/mukhtasar/02.mp3",
+          "fromPage": 5,
+          "toPage": 8
+        }
+      ]
+    },
+    {
+      "id": "abi_shujaa",
+      "title": "متن أبي شجاع",
+      "version": "1",
+      "pdf": "books/abi_shujaa.pdf",
+      "lessons": [
+        {
+          "id": "01",
+          "title": "مقدمة الكتاب",
+          "file": "audio/abi_shujaa/01.mp3",
+          "fromPage": 1,
+          "toPage": 3
+        }
+      ]
+    },
+    {
+      "id": "umda",
+      "title": "عمدة السالك",
+      "version": "1",
+      "pdf": "",
+      "lessons": []
+    }
+  ]
+}
